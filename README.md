@@ -1,3 +1,15 @@
+# KenDiC
+<div align="center">
+
+<h1> Retrieval Augmented Generation for Nursing Question Answering with Large Language Models </h1>
+
+
+![colored_mesh (1)](img/logo03.png)
+</div>
+
+---
+
+
 # Local LLM Deployment Project
 
 This project provides a streamlined solution for locally deploying large language models such as ChatGLM2-6B and LLaMA-7B, integrated with a Chinese embedding model, suitable for local inference, knowledge-based QA, and other applications.
@@ -52,7 +64,7 @@ It is recommended to store all models under the `models/` directory for easier m
 
 ---
 
-## 2. Local Deployment
+## 2. Deployment
 
 ### 2.1 Install Python Dependencies
 
@@ -61,10 +73,34 @@ pip install -r requirements.txt
 If requirements.txt is not available, install the required packages manually:
 
 bash
-深色版本
 pip install transformers==4.33.3
 pip install torch>=2.0.1
 pip install torchvision
 pip install torchaudio
 pip install fastapi>=0.103.1
 pip install nltk~=3.8.1
+
+```
+
+### 2.2 Launch the Project
+After installation, start the service with:
+
+```bash
+python startup.py -a
+```
+
+
+#### 🐳Building With Docker Images
+```shell
+Coming soon
+```
+
+
+## Citation
+
+If you use the codes and datasets , please cite the following paper(not published yet).
+
+```
+coming soon
+```
+
