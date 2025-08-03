@@ -1,5 +1,5 @@
 
-# NurRAG Deployment Project
+# NurRAG Deployment
 
 This project provides a streamlined solution for locally deploying large language models such as ChatGLM2-6B and LLaMA-7B, integrated with a  embedding model, suitable for local inference, knowledge-based QA, and other applications.
 
