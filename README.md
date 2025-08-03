@@ -1,4 +1,3 @@
-# KenDiC
 <div align="center">
 
 <h1> Retrieval Augmented Generation for Nursing Question Answering with Large Language Models </h1>
