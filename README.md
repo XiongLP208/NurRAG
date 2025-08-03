@@ -5,7 +5,7 @@ This project provides a streamlined solution for locally deploying large languag
 
 ---
 
-[![Demo Video](video/Demo_NurRAG.mwv)
+[![Demo Video](video/Demo_NurRAG.wmv)
 
 > 🔍 **Click the image above to play the local demo video**  
 > *(Video: ./video/Demo_NurRAG.mwv)*
