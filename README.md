@@ -1,17 +1,7 @@
-<div align="center">
 
-<h1> Retrieval Augmented Generation for Nursing Question Answering with Large Language Models </h1>
+# NurRAG Deployment Project
 
-
-![colored_mesh (1)](img/logo03.png)
-</div>
-
----
-
-
-# Local LLM Deployment Project
-
-This project provides a streamlined solution for locally deploying large language models such as ChatGLM2-6B and LLaMA-7B, integrated with a Chinese embedding model, suitable for local inference, knowledge-based QA, and other applications.
+This project provides a streamlined solution for locally deploying large language models such as ChatGLM2-6B and LLaMA-7B, integrated with a  embedding model, suitable for local inference, knowledge-based QA, and other applications.
 
 ---
 
