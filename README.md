@@ -49,12 +49,29 @@ Please download the following models from Hugging Face to your local machine:
 
 ### 1.3 Download Embedding Model
 
-For Chinese text vectorization:
+For text vectorization:
 
 - **BAAI/bge-large-zh**  
   [https://huggingface.co/BAAI/bge-large-zh](https://huggingface.co/BAAI/bge-large-zh)
 
-It is recommended to store all models under the `models/` directory for easier management.
+
+### 1.4 Download knowledge retrieval Model
+
+For knowledge retrieval:
+
+- **thenlper/gte-large-zh**  
+  [https://huggingface.co/thenlper/gte-large-zh](https://huggingface.co/thenlper/gte-large-zh)
+
+
+### 1.5 Download Ranking Model
+
+For text vectorization:
+
+- **BAAI/bge-reranker-large**  
+  [https://huggingface.co/BAAI/bge-reranker-large](https://huggingface.co/BAAI/bge-reranker-large)
+
+
+#### It is recommended to store all models under the `models/` directory for easier management.
 
 ---
 
