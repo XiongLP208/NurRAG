@@ -105,7 +105,7 @@ if your local IP address is http://172.22.14.162 and the available port is 8866,
 
 
 ```bash
-[http://172.22.14.162:8866/](http://172.22.14.162:8866/) ###replace your IP
+http://172.22.14.162:8866/ ###replace your IP
 ```
 
 
