@@ -99,6 +99,15 @@ After installation, start the service with:
 ```bash
 python startup.py -a
 ```
+### 2.3 Usage
+After the project starts successfully, you can use the format "local IP address + port" to test and run inference in a browser within the intranet. For example,
+if your local IP address is http://172.22.14.162 and the available port is 8866, you can enter "http://172.22.14.162:8866/" in the browser to enjoy the project experience.
+
+
+```bash
+[http://172.22.14.162:8866/](http://172.22.14.162:8866/) ###replace your IP
+```
+
 
 
 #### 🐳Building With Docker Images
